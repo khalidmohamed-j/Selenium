@@ -1,0 +1,9 @@
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\UI Testing - Selenium\DriveBCPOM\DriveBCPOM\bin\Debug\netcoreapp3.1\DriveBCPOM.deps.json
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\UI Testing - Selenium\DriveBCPOM\DriveBCPOM\bin\Debug\netcoreapp3.1\DriveBCPOM.dll
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\UI Testing - Selenium\DriveBCPOM\DriveBCPOM\bin\Debug\netcoreapp3.1\DriveBCPOM.pdb
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\UI Testing - Selenium\DriveBCPOM\DriveBCPOM\obj\Debug\netcoreapp3.1\DriveBCPOM.csprojAssemblyReference.cache
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\UI Testing - Selenium\DriveBCPOM\DriveBCPOM\obj\Debug\netcoreapp3.1\DriveBCPOM.AssemblyInfoInputs.cache
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\UI Testing - Selenium\DriveBCPOM\DriveBCPOM\obj\Debug\netcoreapp3.1\DriveBCPOM.AssemblyInfo.cs
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\UI Testing - Selenium\DriveBCPOM\DriveBCPOM\obj\Debug\netcoreapp3.1\DriveBCPOM.csproj.CoreCompileInputs.cache
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\UI Testing - Selenium\DriveBCPOM\DriveBCPOM\obj\Debug\netcoreapp3.1\DriveBCPOM.dll
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\UI Testing - Selenium\DriveBCPOM\DriveBCPOM\obj\Debug\netcoreapp3.1\DriveBCPOM.pdb
